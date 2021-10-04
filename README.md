@@ -1,11 +1,11 @@
 ### Hi there 👋
 
+My name is Tatsiana :)
 
-**tati89/tati89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying full time at Boolean UK 6 month intensive course.
-- 🤔 I’m looking for a position as a junior software developer.
+- 🔭 I’m currently finished full time 6 month intensive course at Boolean UK.
+- 🤔 I’m looking for a position as a Junior Software Developer.
 - 📫 How to reach me: https://www.linkedin.com/in/tatsiana-kudrashova-0b903382/
-- ⚡ Fun fact: ..
+
+
+
+
